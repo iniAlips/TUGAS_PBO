@@ -1,4 +1,5 @@
 <?php
+
 class Mahasiswa {
     private string $nim;
     private string $nama;
